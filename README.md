@@ -22,6 +22,9 @@
 - [css-profile-card-component](https://github.com/amansgz/css-profile-card-component)
 - [css-social-proof-section](https://github.com/amansgz/css-social-proof-section)
 - [css-article-preview-component](https://github.com/amansgz/css-article-preview-component)
+- [css-interactive-rating-component](https://github.com/amansgz/css-interactive-rating-component)
+- [css-results-summary-component](https://github.com/amansgz/css-results-summary-component)
+
 - [bootstrap-product-preview-card](https://github.com/amansgz/bootstrap-product-preview-card)
 - [bootstrap-ping-coming-soon-page](https://github.com/amansgz/bootstrap-ping-coming-soon-page)
 - [scss-faq-accordion-card](https://github.com/amansgz/scss-faq-accordion-card)
