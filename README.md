@@ -95,6 +95,10 @@
 - **Pricing Component with Toggle**  
 [live site /](https://sass-pricing-component-with-toggle.netlify.app/)  [code](https://github.com/amansgz/sass-pricing-component-with-toggle)
 
+### Built with React
+
+- **Huddle landing page with alternating feature blocks**
+[live site /](https://react-huddle-landing-page.netlify.app/) [code]()
 
 --- 
 ## DevChallenges
