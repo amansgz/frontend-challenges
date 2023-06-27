@@ -97,8 +97,8 @@
 
 ### Built with React
 
-- **Huddle landing page with alternating feature blocks**
-[live site /](https://react-huddle-landing-page.netlify.app/) [code]()
+- **Huddle landing page with alternating feature blocks**  
+[live site /](https://react-huddle-landing-page.netlify.app/) [code](https://github.com/amansgz/react-huddle-landing-page)
 
 --- 
 ## DevChallenges
