@@ -101,7 +101,8 @@
 [live site /](https://react-huddle-landing-page.netlify.app/) [code](https://github.com/amansgz/react-huddle-landing-page)
 
 - **Clipboard landing page**   
-[live site / ]() [code]()
+[live site / ](https://react-clipboard-landing-page.netlify.app/) [code](https://github.com/amansgz/react-clipboard-landing-page)
+
 --- 
 ## DevChallenges
 
