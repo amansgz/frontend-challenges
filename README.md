@@ -3,9 +3,9 @@
 ## Frontend Mentor
 [Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
 
-## Solutions to Newbie Challenges
-
 ### Built with CSS
+
+#### Solutions to Newbie Challenges
 
   - **QR Code Component**  
    [live site](https://amansgz.github.io/css-qr-code-component/) / [code](https://github.com/amansgz/css-qr-code-component)
@@ -55,22 +55,7 @@
   - **Intro Component with Sign Up Form**  
   [live site](https://amansgz.github.io/css-intro-component-with-sign-up-form/) / [code](https://github.com/amansgz/css-intro-component-with-sign-up-form)
 
-
-### Built with Sass
-
-  - **FAQ Accordion Card**   
-  [live site](https://scss-faq-accordion-card.netlify.app/) / [code](https://github.com/amansgz/scss-faq-accordion-card)  
-
-
-### Built with React
-
-  - **3 Column Card Component**  
-  [live site](https://react-3-column-card.netlify.app/) / [code](https://github.com/amansgz/react-3-column-card-component)  
-
-
-## Solutions to Junior Challenges
-
-### Built with CSS
+#### Solutions to Junior Challenges
 
   - **Fylo Data Storage Component**  
   [live site](https://amansgz.github.io/css-fylo-data-storage-component/) / [code](https://github.com/amansgz/css-fylo-data-storage-component)
@@ -87,7 +72,15 @@
 - **Insure Landing Page**  
 [live site](https://amansgz.github.io/css-insure-landing-page/) / [code](https://github.com/amansgz/css-insure-landing-page)
 
+
 ### Built with Sass
+
+#### Solutions to Newbie Challenges
+
+  - **FAQ Accordion Card**   
+  [live site](https://scss-faq-accordion-card.netlify.app/) / [code](https://github.com/amansgz/scss-faq-accordion-card)  
+
+#### Solutions to Junior Challenges
 
 - **Sunnyside Landing Page**  
 [live site](https://sass-sunnyside-landing-page.netlify.app/) / [code](https://github.com/amansgz/sass-sunnyside-landing-page)
@@ -95,7 +88,16 @@
 - **Pricing Component with Toggle**  
 [live site](https://sass-pricing-component-with-toggle.netlify.app/) / [code](https://github.com/amansgz/sass-pricing-component-with-toggle)
 
+
 ### Built with React
+
+#### Solutions to Newbie Challenges
+
+  - **3 Column Card Component**  
+  [live site](https://react-3-column-card.netlify.app/) / [code](https://github.com/amansgz/react-3-column-card-component)  
+
+
+#### Solutions to Junior Challenges
 
 - **Huddle landing page with alternating feature blocks**  
 [live site](https://react-huddle-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-huddle-landing-page)
