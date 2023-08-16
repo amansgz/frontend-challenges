@@ -105,3 +105,10 @@
 - **Project tracking intro component**   
 [live site](https://react-project-tracking-intro.netlify.app/) / [code](https://github.com/amansgz/react-project-tracking-intro)
 
+
+## Solutions to Intermediate Challenges
+
+### Built with React
+  - **Easybank landing page**  
+   [live site](https://easybank-landing-page-with-react.netlify.app/) / [code](https://github.com/amansgz/react-easybank-landing-page)
+
