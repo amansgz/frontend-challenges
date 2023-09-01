@@ -107,23 +107,23 @@
 
 ### Built with CSS
 
-  - **Fylo Data Storage Component**
-    <img src= "" title= "" alt= "" width= "230">          
+  - **Fylo Data Storage Component**       
+    <img src= "https://github.com/amansgz/css-fylo-data-storage-component/blob/5dba21d89f89d48604daea3d6696d4ebf0bd1493/images/preview.png" title= "" alt= "" width= "230">          
 
     [live site](https://amansgz.github.io/css-fylo-data-storage-component/) / [code](https://github.com/amansgz/css-fylo-data-storage-component)
 
-  - **Coding Bootcamp Testimonials Slider**
+  - **Coding Bootcamp Testimonials Slider**     
     <img src= "https://github.com/amansgz/css-coding-bootcamp-testimonials-slider/blob/b6eb197bf6152e4b3a91219a70d57f3ccaa11335/images/preview.png" title= "" alt= "" width= "230">          
 
     [live site](https://amansgz.github.io/css-coding-bootcamp-testimonials-slider/) / [code](https://github.com/amansgz/css-coding-bootcamp-testimonials-slider)
 
-  - **Testimonials Grid Section**
+  - **Testimonials Grid Section**    
     <img src= "https://github.com/amansgz/css-testimonials-grid-section/blob/dd4f6cdf5f8285c2d70340d02b3799daea8611c4/styles/images/preview.png" title= "" alt= "" width= "230">          
 
     [live site](https://amansgz.github.io/css-testimonials-grid-section/) / [code](https://github.com/amansgz/css-testimonials-grid-section)
 
 - **Fylo Landing Page with 2 column layout**
-  <img src= "" title= "" alt= "" width= "230">          
+  <img src= "https://github.com/amansgz/css-landing-page-with-2-column-layout/blob/f0cc8429c89255f8b3877307236278aad5bc71cc/styles/images/preview.png" title= "" alt= "" width= "230">          
 
   [live site](https://amansgz.github.io/css-landing-page-with-2-column-layout/) / [code](https://github.com/amansgz/css-landing-page-with-2-column-layout)
 
