@@ -24,23 +24,22 @@
 
     [live site](https://amansgz.github.io/bootstrap-product-preview-card/) / [code](https://github.com/amansgz/bootstrap-product-preview-card) 
 
-  - **Profile Card Component**
-    <img src= "" title= "" alt= "" width= "230">
+  - **Profile Card Component**   
+    <img src= "https://github.com/amansgz/css-profile-card-component/blob/4a3f8f7d988ee736f46a8ac332474a68ecacad4a/images/preview.png" title= "" alt= "" width= "230">
         
     [live site](https://amansgz.github.io/css-profile-card-component/) / [code](https://github.com/amansgz/css-profile-card-component)
 
-  - **Single Price Grid Component**
-    <img src= "" title= "" alt= "" width= "230">          
-
+  - **Single Price Grid Component**    
+    <img src= "https://github.com/amansgz/css-single-price-grid-component/blob/12d0c340b56e327cf0e11e6031f80d42cd99465b/styles/images/preview.png" title= "" alt= "" width= "230">          
     [live site](https://amansgz.github.io/css-single-price-grid-component/) / [code](https://github.com/amansgz/css-single-price-grid-component)
 
-  - **Grid Four Cards Section**
-    <img src= "" title= "" alt= "" width= "230">          
+  - **Grid Four Cards Section**    
+    <img src= "https://github.com/amansgz/css-grid-four-cards-section/blob/af7aca24e65ea2e6e20c04f1a30ff8921181fc7e/styles/images/preview.png" title= "" alt= "" width= "230">          
 
     [live site](https://amansgz.github.io/css-grid-four-cards-section/) / [code](https://github.com/amansgz/css-grid-four-cards-section)
 
-  - **Article Preview Component**
-    <img src= "https://github.com/amansgz/css-404-not-found/blob/df29c20b7d830920f7526bf537f0d091de4d8f59/assets/preview.png" title= "404 not found" alt= "404 not found" width= "230">      
+  - **Article Preview Component**    
+    <img src= "https://github.com/amansgz/css-article-preview-component/blob/b8376f05bdeaf0a1415d3a71309b76cd5b195c13/css/images/preview.png" title= "" alt= "" width= "230">      
   [live site](https://amansgz.github.io/css-article-preview-component/) / [code](https://github.com/amansgz/css-article-preview-component)
 
   - **Interactive Rating Component**
