@@ -6,12 +6,13 @@
 
 ### Built with CSS
   - **QR Code Component**    
-    <img src= "https://github.com/amansgz/css-404-not-found/blob/df29c20b7d830920f7526bf537f0d091de4d8f59/assets/preview.png" title= "404 not found" alt= "404 not found" width= "230">      
-   [live site](https://amansgz.github.io/css-qr-code-component/) / [code](https://github.com/amansgz/css-qr-code-component)
+    <img src= "https://github.com/amansgz/css-qr-code-component/blob/7b7b1645c3228d5a784c1a28ba4e327610fea339/styles/images/preview.png" title= "QR code" alt= "QR code" width= "230">      
+    [live site](https://amansgz.github.io/css-qr-code-component/) / [code](https://github.com/amansgz/css-qr-code-component)
 
   - **Stats Preview Card Component**   
-  <img src= "https://github.com/amansgz/css-404-not-found/blob/df29c20b7d830920f7526bf537f0d091de4d8f59/assets/preview.png" title= "404 not found" alt= "404 not found" width= "230">      
-  [live site](https://amansgz.github.io/css-stats-preview-card-component/) / [code](https://github.com/amansgz/css-stats-preview-card-component)
+    <img src= "https://github.com/amansgz/css-stats-preview-card-component/blob/763a853a79dea3db96fdbc6a45ea82f009e7568f/styles/images/preview.png" title= "" alt= "" width= "230">      
+
+    [live site](https://amansgz.github.io/css-stats-preview-card-component/) / [code](https://github.com/amansgz/css-stats-preview-card-component)
 
   - **NFT Preview Card Component**
     <img src= "https://github.com/amansgz/css-404-not-found/blob/df29c20b7d830920f7526bf537f0d091de4d8f59/assets/preview.png" title= "404 not found" alt= "404 not found" width= "230">      
