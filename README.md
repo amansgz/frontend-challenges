@@ -14,13 +14,13 @@
 
     [live site](https://amansgz.github.io/css-stats-preview-card-component/) / [code](https://github.com/amansgz/css-stats-preview-card-component)
 
-  - **NFT Preview Card Component**
+  - **NFT Preview Card Component**    
     <img src= "https://github.com/amansgz/css-nft-preview-card/blob/77278fe94c156fca94ae0c7c299c5913361e499f/styles/images/preview.png" title= "" alt= "" width= "230">      
 
     [live site](https://amansgz.github.io/css-nft-preview-card/) / [code](https://github.com/amansgz/css-nft-preview-card)
 
-  - **Product Preview Card**
-    <img src= "" title= "" alt= "" width= "230">      
+  - **Product Preview Card**    
+    <img src= "https://github.com/amansgz/bootstrap-product-preview-card/blob/2895c4902c98e3d703877fa4be5e966b0b2f7830/styles/images/preview.png" title= "" alt= "" width= "230">      
 
     [live site](https://amansgz.github.io/bootstrap-product-preview-card/) / [code](https://github.com/amansgz/bootstrap-product-preview-card) 
 
