@@ -90,15 +90,15 @@
 
 ### Built with Sass
 
-  - **FAQ Accordion Card**
-    <img src= "" title= "" alt= "" width= "230">      
+  - **FAQ Accordion Card**   
+    <img src= "https://github.com/amansgz/scss-faq-accordion-card/blob/fd81e7c9938ddce36fe74b191fb02dc499a25398/images/preview.png" title= "" alt= "" width= "230">      
 
     [live site](https://scss-faq-accordion-card.netlify.app/) / [code](https://github.com/amansgz/scss-faq-accordion-card)
 
 ### Built with React
 
-  - **3 Column Card Component**
-    <img src= "" title= "" alt= "" width= "230">          
+  - **3 Column Card Component**   
+    <img src= "https://github.com/amansgz/react-3-column-card-component/blob/28b8d0adc76a00412f864fc38a1bdee9bc848cd8/public/images/screenshot.png" title= "" alt= "" width= "230">       
 
     [live site](https://react-3-column-card.netlify.app/) / [code](https://github.com/amansgz/react-3-column-card-component)  
 
