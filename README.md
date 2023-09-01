@@ -107,40 +107,60 @@
 
 ### Built with CSS
 
-  - **Fylo Data Storage Component**  
-  [live site](https://amansgz.github.io/css-fylo-data-storage-component/) / [code](https://github.com/amansgz/css-fylo-data-storage-component)
+  - **Fylo Data Storage Component**
+    <img src= "" title= "" alt= "" width= "230">          
 
-  - **Coding Bootcamp Testimonials Slider**  
-  [live site](https://amansgz.github.io/css-coding-bootcamp-testimonials-slider/) / [code](https://github.com/amansgz/css-coding-bootcamp-testimonials-slider)
+    [live site](https://amansgz.github.io/css-fylo-data-storage-component/) / [code](https://github.com/amansgz/css-fylo-data-storage-component)
 
-  - **Testimonials Grid Section**  
-  [live site](https://amansgz.github.io/css-testimonials-grid-section/) / [code](https://github.com/amansgz/css-testimonials-grid-section)
+  - **Coding Bootcamp Testimonials Slider**
+    <img src= "https://github.com/amansgz/css-coding-bootcamp-testimonials-slider/blob/b6eb197bf6152e4b3a91219a70d57f3ccaa11335/images/preview.png" title= "" alt= "" width= "230">          
 
-- **Fylo Landing Page with 2 column layout**  
-[live site](https://amansgz.github.io/css-landing-page-with-2-column-layout/) / [code](https://github.com/amansgz/css-landing-page-with-2-column-layout)
+    [live site](https://amansgz.github.io/css-coding-bootcamp-testimonials-slider/) / [code](https://github.com/amansgz/css-coding-bootcamp-testimonials-slider)
 
-- **Insure Landing Page**  
-[live site](https://amansgz.github.io/css-insure-landing-page/) / [code](https://github.com/amansgz/css-insure-landing-page)
+  - **Testimonials Grid Section**
+    <img src= "https://github.com/amansgz/css-testimonials-grid-section/blob/dd4f6cdf5f8285c2d70340d02b3799daea8611c4/styles/images/preview.png" title= "" alt= "" width= "230">          
+
+    [live site](https://amansgz.github.io/css-testimonials-grid-section/) / [code](https://github.com/amansgz/css-testimonials-grid-section)
+
+- **Fylo Landing Page with 2 column layout**
+  <img src= "" title= "" alt= "" width= "230">          
+
+  [live site](https://amansgz.github.io/css-landing-page-with-2-column-layout/) / [code](https://github.com/amansgz/css-landing-page-with-2-column-layout)
+
+- **Insure Landing Page**
+  <img src= "" title= "" alt= "" width= "230">          
+
+  [live site](https://amansgz.github.io/css-insure-landing-page/) / [code](https://github.com/amansgz/css-insure-landing-page)
 
 
 ### Built with Sass
 
-- **Sunnyside Landing Page**  
-[live site](https://sass-sunnyside-landing-page.netlify.app/) / [code](https://github.com/amansgz/sass-sunnyside-landing-page)
+- **Sunnyside Landing Page**    
+  <img src= "" title= "" alt= "" width= "230">          
 
-- **Pricing Component with Toggle**  
-[live site](https://sass-pricing-component-with-toggle.netlify.app/) / [code](https://github.com/amansgz/sass-pricing-component-with-toggle)
+  [live site](https://sass-sunnyside-landing-page.netlify.app/) / [code](https://github.com/amansgz/sass-sunnyside-landing-page)
+
+- **Pricing Component with Toggle**    
+  <img src= "https://github.com/amansgz/sass-pricing-component-with-toggle/blob/20f04bf6de7ddbcb67974292c2b18b08f63275ad/images/preview.png" title= "" alt= "" width= "230">          
+
+  [live site](https://sass-pricing-component-with-toggle.netlify.app/) / [code](https://github.com/amansgz/sass-pricing-component-with-toggle)
 
 ### Built with React
 
-- **Huddle landing page with alternating feature blocks**  
-[live site](https://react-huddle-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-huddle-landing-page)
+- **Huddle landing page with alternating feature blocks**     
+  <img src= "" title= "" alt= "" width= "230">          
 
-- **Clipboard landing page**   
-[live site](https://react-clipboard-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-clipboard-landing-page)
+  [live site](https://react-huddle-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-huddle-landing-page)
 
-- **Project tracking intro component**   
-[live site](https://react-project-tracking-intro.netlify.app/) / [code](https://github.com/amansgz/react-project-tracking-intro)
+- **Clipboard landing page**    
+  <img src= "" title= "" alt= "" width= "230">          
+
+  [live site](https://react-clipboard-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-clipboard-landing-page)
+
+- **Project tracking intro component**    
+  <img src= "https://github.com/amansgz/react-project-tracking-intro/blob/3828d348edb973dbfaacef25041f2cbbdad569f5/public/preview.png" title= "" alt= "" width= "230">          
+
+  [live site](https://react-project-tracking-intro.netlify.app/) / [code](https://github.com/amansgz/react-project-tracking-intro)
 
 
 ## Solutions to Intermediate Challenges
