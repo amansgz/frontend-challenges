@@ -47,22 +47,23 @@
 
     [live site](https://amansgz.github.io/css-interactive-rating-component/) / [code](https://github.com/amansgz/css-interactive-rating-component)  
 
-  - **Order Summary Component**
-    <img src= "" title= "" alt= "" width= "230">          
+  - **Order Summary Component**   
+    <img src= "https://github.com/amansgz/css-order-summary-component/blob/344493cda7a4a5119126da6dfaf2c386c42e6e94/styles/images/preview.png" title= "" alt= "" width= "230">          
 
     [live site](https://amansgz.github.io/css-order-summary-component/) / [code](https://github.com/amansgz/css-order-summary-component)
   
-  - **Results Summary Component**
-    <img src= "" title= "" alt= "" width= "230">          
+  - **Results Summary Component**   
+    <img src= "https://github.com/amansgz/css-results-summary-component/blob/e2c5a2417ef5aa3c0ffe04dbd29b2bb1d0ec1234/css/assets/images/results-preview.png" title= "" alt= "" width= "230">          
+
     [live site](https://amansgz.github.io/css-results-summary-component/) / [code](https://github.com/amansgz/css-results-summary-component)  
 
-  - **Social Proof Section**
-    <img src= "https://github.com/amansgz/css-404-not-found/blob/df29c20b7d830920f7526bf537f0d091de4d8f59/assets/preview.png" title= "404 not found" alt= "404 not found" width= "230">  
+  - **Social Proof Section**   
+    <img src= "https://github.com/amansgz/css-social-proof-section/blob/ad3e881d9d2e246921bfbc43ffde9d1a9f16b0fd/css/images/preview.png" title= "" alt= "" width= "230">  
 
     [live site](https://amansgz.github.io/css-social-proof-section/) / [code](https://github.com/amansgz/css-social-proof-section)
 
-  - **Landing Page With Intro Section**
-    <img src= "" title= "" alt= "" width= "230">      
+  - **Landing Page With Intro Section**   
+    <img src= "https://github.com/amansgz/css-landing-page-with-intro-section/blob/cf000b52278cad687cd47f3f0870e2d4b23cd223/styles/images/preview.png" title= "" alt= "" width= "230">      
 
     [live site](https://amansgz.github.io/css-landing-page-with-intro-section/) / [code](https://github.com/amansgz/css-landing-page-with-intro-section)
 
