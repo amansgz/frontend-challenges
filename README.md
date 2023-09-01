@@ -19,10 +19,6 @@
 
     [live site](https://amansgz.github.io/css-nft-preview-card/) / [code](https://github.com/amansgz/css-nft-preview-card)
 
-  - **Product Preview Card**    
-    <img src= "https://github.com/amansgz/bootstrap-product-preview-card/blob/2895c4902c98e3d703877fa4be5e966b0b2f7830/styles/images/preview.png" title= "" alt= "" width= "230">      
-
-    [live site](https://amansgz.github.io/bootstrap-product-preview-card/) / [code](https://github.com/amansgz/bootstrap-product-preview-card) 
 
   - **Profile Card Component**   
     <img src= "https://github.com/amansgz/css-profile-card-component/blob/4a3f8f7d988ee736f46a8ac332474a68ecacad4a/images/preview.png" title= "" alt= "" width= "230">
@@ -67,22 +63,30 @@
 
     [live site](https://amansgz.github.io/css-landing-page-with-intro-section/) / [code](https://github.com/amansgz/css-landing-page-with-intro-section)
 
-  - **Ping Coming Soon Page**
-    <img src= "" title= "" alt= "" width= "230">      
+ 
 
-    [live site](https://amansgz.github.io/bootstrap-ping-coming-soon-page/) / [code](https://github.com/amansgz/bootstrap-ping-coming-soon-page) 
-
-  - **Base Apparel Coming Soon**
-    <img src= "" title= "" alt= "" width= "230">      
+  - **Base Apparel Coming Soon**    
+    <img src= "https://github.com/amansgz/css-base-apparel-coming-soon/blob/179834d71d6bcb1adaf47952ca9f4321b5175e84/styles/images/preview.png" title= "" alt= "" width= "230">      
 
     [live site](https://amansgz.github.io/css-base-apparel-coming-soon/) / [code](https://github.com/amansgz/css-base-apparel-coming-soon)
 
-  - **Intro Component with Sign Up Form**
-    <img src= "" title= "" alt= "" width= "230">      
+  - **Intro Component with Sign Up Form**    
+    <img src= "https://github.com/amansgz/css-intro-component-with-sign-up-form/blob/4dad2bd7a42aaea30889788e36cd4c3c37583c4c/css/images/preview.png" title= "" alt= "" width= "230">    
   
     [live site](https://amansgz.github.io/css-intro-component-with-sign-up-form/) / [code](https://github.com/amansgz/css-intro-component-with-sign-up-form)
 
 
+### Built with Bootstrap
+
+ - **Product Preview Card**    
+    <img src= "https://github.com/amansgz/bootstrap-product-preview-card/blob/2895c4902c98e3d703877fa4be5e966b0b2f7830/styles/images/preview.png" title= "" alt= "" width= "230">      
+
+    [live site](https://amansgz.github.io/bootstrap-product-preview-card/) / [code](https://github.com/amansgz/bootstrap-product-preview-card) 
+
+ - **Ping Coming Soon Page**   
+    <img src= "https://github.com/amansgz/bootstrap-ping-coming-soon-page/blob/ddf5011737659725c7eb28437a36005b9fd2b043/styles/images/preview.png" title= "" alt= "" width= "230">      
+
+    [live site](https://amansgz.github.io/bootstrap-ping-coming-soon-page/) / [code](https://github.com/amansgz/bootstrap-ping-coming-soon-page) 
 
 ### Built with Sass
 
