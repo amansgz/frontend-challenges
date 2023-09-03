@@ -6,7 +6,7 @@
 
 ### Built with CSS
   - **QR Code Component**    
-    <img src= "https://github.com/amansgz/css-qr-code-component/blob/7b7b1645c3228d5a784c1a28ba4e327610fea339/styles/images/preview.png" title= "QR code" alt= "QR code" width= "230">      
+    <img src= "https://github.com/amansgz/css-qr-code-component/blob/2b6fad8f67c74ea38709ceed5edd9084851fa7a1/styles/images/preview.png" title= "QR code component" alt= "QR code component" width= "230">      
     [live site](https://amansgz.github.io/css-qr-code-component/) / [code](https://github.com/amansgz/css-qr-code-component)
 
   - **Stats Preview Card Component**   
