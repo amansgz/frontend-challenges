@@ -15,7 +15,7 @@
     [live site](https://amansgz.github.io/css-stats-preview-card-component/) / [code](https://github.com/amansgz/css-stats-preview-card-component)
 
   - **NFT Preview Card Component**    
-    <img src= "https://github.com/amansgz/css-nft-preview-card/blob/77278fe94c156fca94ae0c7c299c5913361e499f/styles/images/preview.png" title= "" alt= "" width= "230">      
+    <img src= "https://github.com/amansgz/css-nft-preview-card/blob/0ad3e337f33f037177ca9f3c9b6c48056e18e2ac/styles/images/preview.png" title= "nft preview card component" alt= "nft preview card component" width= "230">
 
     [live site](https://amansgz.github.io/css-nft-preview-card/) / [code](https://github.com/amansgz/css-nft-preview-card)
 
