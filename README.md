@@ -21,7 +21,7 @@
 
 
   - **Profile Card Component**   
-    <img src= "https://github.com/amansgz/css-profile-card-component/blob/4a3f8f7d988ee736f46a8ac332474a68ecacad4a/images/preview.png" title= "" alt= "" width= "230">
+    <img src= "https://github.com/amansgz/css-profile-card-component/blob/8513a682394e33f9863d81ce9c78194c177317bf/images/preview.png" title= "profile card component" alt= "profile card component" width= "230">
         
     [live site](https://amansgz.github.io/css-profile-card-component/) / [code](https://github.com/amansgz/css-profile-card-component)
 
