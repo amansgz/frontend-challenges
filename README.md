@@ -10,7 +10,7 @@
     [live site](https://amansgz.github.io/css-qr-code-component/) / [code](https://github.com/amansgz/css-qr-code-component)
 
   - **Stats Preview Card Component**   
-    <img src= "https://github.com/amansgz/css-stats-preview-card-component/blob/763a853a79dea3db96fdbc6a45ea82f009e7568f/styles/images/preview.png" title= "" alt= "" width= "230">      
+    <img src= "https://github.com/amansgz/css-stats-preview-card-component/blob/8eaaa495482f834535d980ed2298ecfbbac9004a/styles/images/preview.png" title= "stats preview card component" alt= "stats preview card component" width= "230">      
 
     [live site](https://amansgz.github.io/css-stats-preview-card-component/) / [code](https://github.com/amansgz/css-stats-preview-card-component)
 
