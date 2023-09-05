@@ -35,7 +35,7 @@
     [live site](https://amansgz.github.io/css-grid-four-cards-section/) / [code](https://github.com/amansgz/css-grid-four-cards-section)
 
   - **Article Preview Component**    
-    <img src= "https://github.com/amansgz/css-article-preview-component/blob/b8376f05bdeaf0a1415d3a71309b76cd5b195c13/css/images/preview.png" title= "" alt= "" width= "230">      
+    <img src= "https://github.com/amansgz/css-article-preview-component/blob/dafd03566e87147671e0f58e1303da14471e4c03/css/images/preview.png" title= "" alt= "" width= "230">      
   [live site](https://amansgz.github.io/css-article-preview-component/) / [code](https://github.com/amansgz/css-article-preview-component)
 
   - **Interactive Rating Component**
