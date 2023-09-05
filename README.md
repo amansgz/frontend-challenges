@@ -26,8 +26,8 @@
     [live site](https://amansgz.github.io/css-profile-card-component/) / [code](https://github.com/amansgz/css-profile-card-component)
 
   - **Single Price Grid Component**    
-    <img src= "https://github.com/amansgz/css-single-price-grid-component/blob/12d0c340b56e327cf0e11e6031f80d42cd99465b/styles/images/preview.png" title= "" alt= "" width= "230">          
-    [live site](https://amansgz.github.io/css-single-price-grid-component/) / [code](https://github.com/amansgz/css-single-price-grid-component)
+    <img src= "https://github.com/amansgz/css-single-price-grid-component/blob/bc9c89a9048ffae0e0b393974d9fa766c44904b6/styles/images/preview.png" title= "single price grid component" alt= "" width= "230">          
+    [live site](https://amansgz.github.io/css-single-price-grid-component/) | [code](https://github.com/amansgz/css-single-price-grid-component)
 
   - **Grid Four Cards Section**    
     <img src= "https://github.com/amansgz/css-grid-four-cards-section/blob/af7aca24e65ea2e6e20c04f1a30ff8921181fc7e/styles/images/preview.png" title= "" alt= "" width= "230">          
