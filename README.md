@@ -23,19 +23,19 @@
   - **Profile Card Component**   
     <img src= "https://github.com/amansgz/css-profile-card-component/blob/8513a682394e33f9863d81ce9c78194c177317bf/images/preview.png" title= "profile card component" alt= "profile card component" width= "230">
         
-    [live site](https://amansgz.github.io/css-profile-card-component/) / [code](https://github.com/amansgz/css-profile-card-component)
+    [live site](https://amansgz.github.io/css-profile-card-component/) | [code](https://github.com/amansgz/css-profile-card-component)
 
   - **Single Price Grid Component**    
-    <img src= "https://github.com/amansgz/css-single-price-grid-component/blob/bc9c89a9048ffae0e0b393974d9fa766c44904b6/styles/images/preview.png" title= "single price grid component" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-single-price-grid-component/blob/bc9c89a9048ffae0e0b393974d9fa766c44904b6/styles/images/preview.png" title= "single price grid component" alt= "single price grid component" width= "230">          
     [live site](https://amansgz.github.io/css-single-price-grid-component/) | [code](https://github.com/amansgz/css-single-price-grid-component)
 
   - **Grid Four Cards Section**    
-    <img src= "https://github.com/amansgz/css-grid-four-cards-section/blob/af7aca24e65ea2e6e20c04f1a30ff8921181fc7e/styles/images/preview.png" title= "" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-grid-four-cards-section/blob/dfec4c37bc2b3a4539d89ca7d100e29e5333c1fb/styles/images/preview.png" title= "grid four cards section" alt= "grid four cards section" width= "230">          
 
     [live site](https://amansgz.github.io/css-grid-four-cards-section/) / [code](https://github.com/amansgz/css-grid-four-cards-section)
 
   - **Article Preview Component**    
-    <img src= "https://github.com/amansgz/css-article-preview-component/blob/dafd03566e87147671e0f58e1303da14471e4c03/css/images/preview.png" title= "" alt= "" width= "230">      
+    <img src= "https://github.com/amansgz/css-article-preview-component/blob/dafd03566e87147671e0f58e1303da14471e4c03/css/images/preview.png" title= "article preview component" alt= "article preview component" width= "230">      
   [live site](https://amansgz.github.io/css-article-preview-component/) / [code](https://github.com/amansgz/css-article-preview-component)
 
   - **Interactive Rating Component**
