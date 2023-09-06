@@ -5,6 +5,7 @@
 ## Solutions to Newbie Challenges
 
 ### Built with CSS
+
   - **QR Code Component**    
     <img src= "https://github.com/amansgz/css-qr-code-component/blob/2b6fad8f67c74ea38709ceed5edd9084851fa7a1/styles/images/preview.png" title= "QR code component" alt= "QR code component" width= "230">      
     [live site](https://amansgz.github.io/css-qr-code-component/) / [code](https://github.com/amansgz/css-qr-code-component)
@@ -38,7 +39,7 @@
     <img src= "https://github.com/amansgz/css-article-preview-component/blob/dafd03566e87147671e0f58e1303da14471e4c03/css/images/preview.png" title= "article preview component" alt= "article preview component" width= "230">      
   [live site](https://amansgz.github.io/css-article-preview-component/) / [code](https://github.com/amansgz/css-article-preview-component)
 
-  - **Interactive Rating Component**
+  - **Interactive Rating Component**    
     <img src= "https://github.com/amansgz/css-interactive-rating-component/blob/db59968e9744a4e37508a1978ec6f21f9ca0dd91/css/assets/preview.png" title= "interactive rating component" alt= "interactive rating component" width= "230">          
 
     [live site](https://amansgz.github.io/css-interactive-rating-component/) / [code](https://github.com/amansgz/css-interactive-rating-component)  
