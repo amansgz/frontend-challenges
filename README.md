@@ -39,7 +39,7 @@
   [live site](https://amansgz.github.io/css-article-preview-component/) / [code](https://github.com/amansgz/css-article-preview-component)
 
   - **Interactive Rating Component**
-    <img src= "" title= "" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-interactive-rating-component/blob/db59968e9744a4e37508a1978ec6f21f9ca0dd91/css/assets/preview.png" title= "interactive rating component" alt= "interactive rating component" width= "230">          
 
     [live site](https://amansgz.github.io/css-interactive-rating-component/) / [code](https://github.com/amansgz/css-interactive-rating-component)  
 
