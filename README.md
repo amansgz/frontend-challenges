@@ -45,7 +45,7 @@
     [live site](https://amansgz.github.io/css-interactive-rating-component/) / [code](https://github.com/amansgz/css-interactive-rating-component)  
 
   - **Order Summary Component**   
-    <img src= "https://github.com/amansgz/css-order-summary-component/blob/344493cda7a4a5119126da6dfaf2c386c42e6e94/styles/images/preview.png" title= "" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-order-summary-component/blob/a5ce8e035a44fe370dac54eb9ccddbbd5d978bbc/styles/images/preview.png" title= "order summary component" alt= "order summary component" width= "230">          
 
     [live site](https://amansgz.github.io/css-order-summary-component/) / [code](https://github.com/amansgz/css-order-summary-component)
   
