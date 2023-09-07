@@ -72,7 +72,7 @@
     [live site](https://amansgz.github.io/css-base-apparel-coming-soon/) / [code](https://github.com/amansgz/css-base-apparel-coming-soon)
 
   - **Intro Component with Sign Up Form**    
-    <img src= "https://github.com/amansgz/css-intro-component-with-sign-up-form/blob/4dad2bd7a42aaea30889788e36cd4c3c37583c4c/css/images/preview.png" title= "" alt= "" width= "230">    
+    <img src= "https://github.com/amansgz/css-intro-component-with-sign-up-form/blob/22d76bebb9193aa7bc12d360719a2c0ce5fbd55c/css/images/preview.png" title= "intro component with sign up form" alt= "intro component with sign up form" width= "230">    
   
     [live site](https://amansgz.github.io/css-intro-component-with-sign-up-form/) / [code](https://github.com/amansgz/css-intro-component-with-sign-up-form)
 
