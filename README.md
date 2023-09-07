@@ -59,8 +59,8 @@
 
     [live site](https://amansgz.github.io/css-social-proof-section/) / [code](https://github.com/amansgz/css-social-proof-section)
 
-  - **Landing Page With Intro Section**   
-    <img src= "https://github.com/amansgz/css-landing-page-with-intro-section/blob/0cd86fd983b49b89ef2cdfa97561ffa5f5ea810d/styles/images/preview.png" title= "landing page with intro section" alt= "landing page with intro section" width= "230">      
+  - **Huddle Landing Page With Intro Section**   
+    <img src= "https://github.com/amansgz/css-landing-page-with-intro-section/blob/2c82b43b2583c0c3c0d5f34f9df7f172db8fb186/styles/images/preview.png" title= "landing page with intro section" alt= "landing page with intro section" width= "230">      
 
     [live site](https://amansgz.github.io/css-landing-page-with-intro-section/) / [code](https://github.com/amansgz/css-landing-page-with-intro-section)
 
