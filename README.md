@@ -50,7 +50,7 @@
     [live site](https://amansgz.github.io/css-order-summary-component/) / [code](https://github.com/amansgz/css-order-summary-component)
   
   - **Results Summary Component**   
-    <img src= "https://github.com/amansgz/css-results-summary-component/blob/e2c5a2417ef5aa3c0ffe04dbd29b2bb1d0ec1234/css/assets/images/results-preview.png" title= "" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-results-summary-component/blob/491c9c3bc506eea49961027bb7bb52325232f898/css/assets/images/preview.png" title= "results summary component" alt= "results summary component" width= "230">          
 
     [live site](https://amansgz.github.io/css-results-summary-component/) / [code](https://github.com/amansgz/css-results-summary-component)  
 
