@@ -55,7 +55,7 @@
     [live site](https://amansgz.github.io/css-results-summary-component/) / [code](https://github.com/amansgz/css-results-summary-component)  
 
   - **Social Proof Section**   
-    <img src= "https://github.com/amansgz/css-social-proof-section/blob/ad3e881d9d2e246921bfbc43ffde9d1a9f16b0fd/css/images/preview.png" title= "" alt= "" width= "230">  
+    <img src= "https://github.com/amansgz/css-social-proof-section/blob/381e5585536f3df6666425b53d4c44d040517946/css/images/preview.png" title= "social proof section" alt= "social proof section" width= "230">  
 
     [live site](https://amansgz.github.io/css-social-proof-section/) / [code](https://github.com/amansgz/css-social-proof-section)
 
