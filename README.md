@@ -114,7 +114,7 @@
     [live site](https://amansgz.github.io/css-fylo-data-storage-component/) / [code](https://github.com/amansgz/css-fylo-data-storage-component)
 
   - **Coding Bootcamp Testimonials Slider**     
-    <img src= "https://github.com/amansgz/css-coding-bootcamp-testimonials-slider/blob/b6eb197bf6152e4b3a91219a70d57f3ccaa11335/images/preview.png" title= "" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-coding-bootcamp-testimonials-slider/blob/fbbe5b05008714dff90982a38c63671ae89f9b51/images/preview.png" title= "coding bootcamp testimonials slider" alt= "coding bootcamp testimonials slider" width= "230">          
 
     [live site](https://amansgz.github.io/css-coding-bootcamp-testimonials-slider/) / [code](https://github.com/amansgz/css-coding-bootcamp-testimonials-slider)
 
