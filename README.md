@@ -109,7 +109,7 @@
 ### Built with CSS
 
   - **Fylo Data Storage Component**       
-    <img src= "https://github.com/amansgz/css-fylo-data-storage-component/blob/5dba21d89f89d48604daea3d6696d4ebf0bd1493/images/preview.png" title= "" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-fylo-data-storage-component/blob/efe92f2e28e92a28d6a191cf1d1d656fae2e3df6/images/preview.png" title= "fylo data storage component" alt= "fylo data storage component" width= "230">          
 
     [live site](https://amansgz.github.io/css-fylo-data-storage-component/) / [code](https://github.com/amansgz/css-fylo-data-storage-component)
 
