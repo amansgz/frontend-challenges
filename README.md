@@ -154,12 +154,12 @@
   [live site](https://react-huddle-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-huddle-landing-page)
 
 - **Clipboard landing page**    
-  <img src= "" title= "" alt= "" width= "230">          
+  <img src= "https://github.com/amansgz/react-clipboard-landing-page/blob/09cda320d5836c3ee92b8a085cacb5f99504e8eb/public/assets/preview.png" title= "Clipboard landing page" alt= "Clipboard landing page" width= "230">          
 
   [live site](https://react-clipboard-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-clipboard-landing-page)
 
 - **Project tracking intro component**    
-  <img src= "https://github.com/amansgz/react-project-tracking-intro/blob/3828d348edb973dbfaacef25041f2cbbdad569f5/public/preview.png" title= "" alt= "" width= "230">          
+  <img src= "https://github.com/amansgz/react-project-tracking-intro/blob/3828d348edb973dbfaacef25041f2cbbdad569f5/public/preview.png" title= "Project tracking intro component" alt= "Project tracking intro component" width= "230">          
 
   [live site](https://react-project-tracking-intro.netlify.app/) / [code](https://github.com/amansgz/react-project-tracking-intro)
 
@@ -167,6 +167,7 @@
 ## Solutions to Intermediate Challenges
 
 ### Built with React
-  - **Easybank landing page**  
+  - **Easybank landing page**
+   <img src= "" title= "easybank landing page" alt= "easybank landing page" width= "230">          
    [live site](https://easybank-landing-page-with-react.netlify.app/) / [code](https://github.com/amansgz/react-easybank-landing-page)
 
