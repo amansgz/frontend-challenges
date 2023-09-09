@@ -128,7 +128,7 @@
 
   [live site](https://amansgz.github.io/css-landing-page-with-2-column-layout/) / [code](https://github.com/amansgz/css-landing-page-with-2-column-layout)
 
-- **Insure Landing Page**
+- **Insure Landing Page**      
   <img src= "https://github.com/amansgz/css-insure-landing-page/blob/f3bf8f279947ec4483500beae93f17db59256cd7/images/screenshot.png" title= "insure landing page" alt= "insure landing page" width= "230">          
 
   [live site](https://amansgz.github.io/css-insure-landing-page/) / [code](https://github.com/amansgz/css-insure-landing-page)
@@ -137,7 +137,7 @@
 ### Built with Sass
 
 - **Sunnyside Landing Page**    
-  <img src= "" title= "" alt= "" width= "230">          
+  <img src= "https://github.com/amansgz/sass-sunnyside-landing-page/blob/c3e7d25d2cf8c6050e3b86f6a94de6f5e6b0172b/images/preview.png" title= "Sunnyside Landing Page" alt= "Sunnyside Landing Page" width= "230">          
 
   [live site](https://sass-sunnyside-landing-page.netlify.app/) / [code](https://github.com/amansgz/sass-sunnyside-landing-page)
 
