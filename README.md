@@ -149,7 +149,7 @@
 ### Built with React
 
 - **Huddle landing page with alternating feature blocks**     
-  <img src= "" title= "" alt= "" width= "230">          
+  <img src= "https://github.com/amansgz/react-huddle-landing-page/blob/b28b5c6e1e596ab07938d3230717a26d87a75200/public/assets/preview.png" title= "Huddle landing page with alternating feature blocks" alt= "Huddle landing page with alternating feature blocks" width= "230">          
 
   [live site](https://react-huddle-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-huddle-landing-page)
 
