@@ -67,7 +67,7 @@
  
 
   - **Base Apparel Coming Soon**    
-    <img src= "https://github.com/amansgz/css-base-apparel-coming-soon/blob/7ad6596137b21e59481d32456eb3855cbfb67e60/styles/images/preview.png" title= "Base apparel coming soon" alt= "Base apparel coming soon" width= "230">      
+    <img src= "https://github.com/amansgz/css-base-apparel-coming-soon/blob/f38b837831af1ef8842d27b0a6d0f5e6813aa4fb/styles/images/preview.png" title= "Base apparel coming soon" alt= "Base apparel coming soon" width= "230">      
 
     [live site](https://amansgz.github.io/css-base-apparel-coming-soon/) / [code](https://github.com/amansgz/css-base-apparel-coming-soon)
 
