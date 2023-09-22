@@ -92,7 +92,7 @@
 ### Built with Sass
 
   - **FAQ Accordion Card**   
-    <img src= "https://github.com/amansgz/scss-faq-accordion-card/blob/fd81e7c9938ddce36fe74b191fb02dc499a25398/images/preview.png" title= "" alt= "" width= "230">      
+    <img src= "https://github.com/amansgz/scss-faq-accordion-card/blob/46b68e84d048da042cfadc93566269a4f6c53412/images/preview.png" title= "faq accordion card" alt= "faq accordion card" width= "230">      
 
     [live site](https://scss-faq-accordion-card.netlify.app/) / [code](https://github.com/amansgz/scss-faq-accordion-card)
 
