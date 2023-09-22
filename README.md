@@ -80,7 +80,7 @@
 ### Built with Bootstrap
 
  - **Product Preview Card**    
-    <img src= "https://github.com/amansgz/bootstrap-product-preview-card/blob/2895c4902c98e3d703877fa4be5e966b0b2f7830/styles/images/preview.png" title= "" alt= "" width= "230">      
+    <img src= "https://github.com/amansgz/bootstrap-product-preview-card/blob/e99d755a12f1db3c806424008c117bdf07e26fcd/styles/images/preview.png" title= "product preview card" alt= "product preview card" width= "230">      
 
     [live site](https://amansgz.github.io/bootstrap-product-preview-card/) / [code](https://github.com/amansgz/bootstrap-product-preview-card) 
 
