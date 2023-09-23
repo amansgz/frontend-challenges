@@ -85,7 +85,7 @@
     [live site](https://amansgz.github.io/bootstrap-product-preview-card/) / [code](https://github.com/amansgz/bootstrap-product-preview-card) 
 
  - **Ping Coming Soon Page**   
-    <img src= "https://github.com/amansgz/bootstrap-ping-coming-soon-page/blob/ddf5011737659725c7eb28437a36005b9fd2b043/styles/images/preview.png" title= "" alt= "" width= "230">      
+    <img src= "https://github.com/amansgz/bootstrap-ping-coming-soon-page/blob/677b9e8a8366eaaab106fe4000f42b915a2face7/styles/images/preview.png" title= "ping coming soon page" alt= "ping coming soon page" width= "230">      
 
     [live site](https://amansgz.github.io/bootstrap-ping-coming-soon-page/) / [code](https://github.com/amansgz/bootstrap-ping-coming-soon-page) 
 
